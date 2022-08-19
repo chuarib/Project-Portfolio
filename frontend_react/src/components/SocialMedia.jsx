@@ -7,17 +7,17 @@ const SocialMedia = () => {
   return (
     <div className="app__social">
       <div>
-        <a target="_blank" href="https://www.linkedin.com/in/chuarib/">
+        <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/chuarib/">
           <FaLinkedin />
         </a>
     </div>
     <div>
-      <a target="_blank" href="https://www.facebook.com/chuarib">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/chuarib">
         <FaFacebookF />
       </a>
     </div>
     <div>
-      <a target="_blank" href="https://www.instagram.com/chuarib/">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/chuarib/">
         <BsInstagram />
       </a>
     </div>
