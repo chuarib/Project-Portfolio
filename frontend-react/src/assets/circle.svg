@@ -1,9 +1,14 @@
-<svg width="511" height="511" viewBox="0 0 511 511" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="255.5" cy="255.5" r="255.5" fill="url(#paint0_linear_615_28)"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="476" height="476" viewBox="0 0 476 476" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.3</desc>
 <defs>
-<linearGradient id="paint0_linear_615_28" x1="434.452" y1="427.308" x2="63.2796" y2="56.1352" gradientUnits="userSpaceOnUse">
-<stop stop-color="#C0C8D5"/>
-<stop offset="1" stop-color="#BDC6D2" stop-opacity="0"/>
-</linearGradient>
 </defs>
+<g transform="matrix(3.67 0 0 3.67 238.25 238.25)"  >
+<linearGradient id="SVGID_789" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -65 -65)"  x1="19.5" y1="19.5" x2="110.5" y2="110.5">
+<stop offset="12.683%" style="stop-color:rgba(169, 169, 169, 1);"/>
+<stop offset="88.293%" style="stop-color:rgba(140, 135, 140, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_789); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="65" />
+</g>
 </svg>
