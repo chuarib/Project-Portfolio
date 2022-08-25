@@ -32,12 +32,17 @@
     color: #eeeeee;
 
     @media screen and (max-width: 1200px) {
-      left: 10%;
+      left: 30%;
+      font-size: 2.2rem;
     }
 
     @media screen and (max-width: 450px) {
       left: 50%;
       font-size: 2.2rem;
+    }
+
+    @media screen and (max-width: 375px) {
+      font-size: 2rem;
     }
   }
 
@@ -52,7 +57,7 @@
     color: #eeeeee;
 
     @media screen and (max-width: 1200px) {
-      left: 10%;
+      left: 30%;
     }
 
     @media screen and (max-width: 450px) {
